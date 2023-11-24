@@ -1,0 +1,15 @@
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\bin\Debug\net7.0\RobotSimulator.exe
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\bin\Debug\net7.0\RobotSimulator.deps.json
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\bin\Debug\net7.0\RobotSimulator.runtimeconfig.json
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\bin\Debug\net7.0\RobotSimulator.dll
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\bin\Debug\net7.0\RobotSimulator.pdb
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.csproj.AssemblyReference.cache
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.AssemblyInfoInputs.cache
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.AssemblyInfo.cs
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.csproj.CoreCompileInputs.cache
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.dll
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\refint\RobotSimulator.dll
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.pdb
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\RobotSimulator.genruntimeconfig.cache
+D:\VS_WS\CORE\ROBOTSIMULATOR\RobotSimulator\obj\Debug\net7.0\ref\RobotSimulator.dll
